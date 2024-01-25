@@ -123,7 +123,7 @@ end
 function day3()
 
     # Read file
-    f = open("day3/input.txt", "r")
+    f = open("./2023/day_03/input/input.txt", "r")
     lines = readlines(f)
     close(f)
 

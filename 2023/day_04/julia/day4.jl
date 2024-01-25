@@ -58,7 +58,7 @@ end
 
 
 function day4()
-    f = open("day4/input.txt", "r")
+    f = open("./2023/day_04/input/input.txt", "r")
     lines = readlines(f)
     close(f)
 

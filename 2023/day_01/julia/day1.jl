@@ -27,7 +27,7 @@ end
 
 
 function day1(part2=false)
-    f = open("day1/input.txt", "r")
+    f = open("./2023/day_01/input/input.txt", "r")
     lines = readlines(f)
     close(f)
     return [parse(Int, get_fst_lst(line, true)) for line in lines] |> sum
