@@ -34,5 +34,8 @@ function day1(part2=false)
 
 end
 
+# Part 1 
+day1(false)
 
+# Part 2
 day1(true)
