@@ -2,7 +2,7 @@
 
 # Advent of code
 
-Repositorio de soluciones para el Advent of Code (AoC) desarrolladas por miembros del [Club de Algoritmia de la Universidad de Sevilla][discord-server].
+Repositorio de soluciones para el [Advent of Code (AoC)](https://adventofcode.com/ "Advent of Code") desarrolladas por miembros del [Club de Algoritmia de la Universidad de Sevilla][discord-server].
 
 
 ## FAQ
